@@ -1,9 +1,11 @@
 [
   "hubot-diagnostics",
-  "hubot-help",
+  "hubot-fliptable",
+  "hubot-help-private",
   "hubot-heroku-keepalive",
   "hubot-pugme",
   "hubot-redis-brain",
   "hubot-rules",
+  "hubot-seriouslyguys",
   "hubot-shipit"
 ]
